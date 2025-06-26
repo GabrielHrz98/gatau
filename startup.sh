@@ -1,0 +1,1 @@
+xvfb-run python3 tiktok_register.py
